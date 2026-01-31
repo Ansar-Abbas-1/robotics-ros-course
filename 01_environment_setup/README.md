@@ -19,7 +19,10 @@ a local Ubuntu installation.
 
 ## Motivation
 This setup allows full ROS and robotics development in a cloud-based environment,
-making it suitable for students without native Linux installations.
+making it suitable without native Linux installations.
+
+## summary
+I set up a Linux-based robotics development environment using Google Colab, verified toolchains, compiled C++ code, and structured a modular GitHub repository to support ROS-based robotic system development
 
 ## Next Steps
 - Install ROS Noetic
